@@ -43,3 +43,4 @@ Github Actions 默认处于关闭状态，大家请手动开启 Actions ，执�
 [点我看图](https://s3.ax1x.com/2021/01/28/y9Ml5Q.png)
 
 ### Q群：[点击链接加入群聊](https://jq.qq.com/?_wv=1027&k=oCdISxo1)
+account = accountraw.encode("utf-8").decode("latin1")
