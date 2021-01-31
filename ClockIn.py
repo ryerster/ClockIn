@@ -5,6 +5,8 @@ from urllib import parse
 import time
 import urllib3
 import sys
+reload(sys)
+sys.setdefaultencoding( "utf-8" )
 urllib3.disable_warnings()
 
 
