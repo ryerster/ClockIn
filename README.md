@@ -36,7 +36,7 @@ Github Actions 默认处于关闭状态，大家请手动开启 Actions ，执�
   schedule:
     - cron: '10 21 * * *'
     # cron表达式，Actions时区是国际时间，国际时间21点的时候，国内时间是5点。
-    # 示例： 每天早上5点10分执行 '10 21 * * *'
+    # 示例： 每天早上8点10分执行 '13 21 * * *'
 ```
 
 - 8.经纬度可以进入[高德地图API](https://developer.amap.com/api/webservice/guide/api/georegeo#geo)下翻至服务示例，输入你的定位地点后于返回的数据中获取
