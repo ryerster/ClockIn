@@ -16,7 +16,7 @@ lat = sys.argv[4]
 lng = sys.argv[5]
 district = sys.argv[6]
 deviceToken = sys.argv[7]
-sckey = sys.argv[34]
+sckey = sys.argv[8]
 # ---------------------------------------------------------------------------
 session = requests.Session()
 date = time.strftime('%Y年%m月', time.localtime())
